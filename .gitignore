@@ -1,0 +1,36 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.npy
+*.npz
+
+# Data and model artifacts
+data/*.csv
+data/*.npy
+checkpoints/
+model/
+*.pt
+
+# PyCharm
+.vscode/
+.idea/
+

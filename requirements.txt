@@ -1,0 +1,22 @@
+# Core
+numpy>=1.23
+pandas>=2.0
+scikit-learn>=1.2
+requests>=2.28
+beautifulsoup4>=4.12
+tqdm>=4.64
+
+# ML
+torch>=2.1.2
+transformers>=4.38.2
+sentence-transformers>=2.2.2
+
+# UI & Fairness
+streamlit>=1.31.1
+gradio>=3.43.1
+fairlearn>=0.8.1
+lime>=0.2.0.1
+
+# Utilities
+sqlalchemy
+python-dotenv
