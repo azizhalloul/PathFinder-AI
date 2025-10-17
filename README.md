@@ -36,6 +36,13 @@ It features a full machine-learning pipeline — from data collection and model 
 | **Version Control** | Git + GitHub |
 
 ---
+### Demo
+
+
+
+[![Watch the demo](https://drive.google.com/file/d/1JSPrPdEjsvBow0pSFXe29Q5LFDKAfAAZ/view?usp=drive_link)](https://drive.google.com/file/d/1JSPrPdEjsvBow0pSFXe29Q5LFDKAfAAZ/view?usp=drive_link)
+
+
 
 ## 🏗️ Project Structure
 
