@@ -1,4 +1,4 @@
-# 🧭 PathFinder AI — Ethical Job & Course Recommender
+# 🧭 PathFinder AI — Job & Course Recommender
 
 > **AI-powered, fairness-aware recommendation system** that helps users discover the best jobs and online courses based on their **skills, experience, and interests** , designed to ensure **ethical and inclusive recommendations**.
 
